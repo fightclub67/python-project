@@ -1,7 +1,7 @@
 class Point:
     def__init__(self, x, y):
-       self.x = x
-       self.y = y
+    self.x = x
+    self.y = y
     def move(self):
         print("move")
 
