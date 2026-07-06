@@ -9,7 +9,7 @@ while True:
     print("7. division (/)")
     print("8. Exist")
 
-    choice = input("choos an option: ")
+    choice = input("choose an option: ")
 
     if choice == "8":
         print("goodbye!")
